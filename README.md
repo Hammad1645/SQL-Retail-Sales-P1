@@ -204,7 +204,7 @@ select *,
 This guided project was a great introduction to real-world SQL applications in business analytics. It helped me practice essential data analysis tasks such as cleaning, aggregating, filtering, and deriving business insights using SQL.
 As someone beginning a career in analytics, this project marks my first step toward building a strong and practical portfolio.
 
-## Author - HAMMAD ALAm
+## Author - Hammad Alam
 
 I'm a PGDM graduate from Chandragupt Institute of Management Patna, aiming to build a career in business analytics. This is my first project on GitHub and part of my continuous learning journey.
 
